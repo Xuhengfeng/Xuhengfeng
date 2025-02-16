@@ -1,8 +1,6 @@
 <!--
 **Xuhengfeng/Xuhengfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -11,6 +9,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Hello everyone, I'm Xuhengfeng, currently working as a frontend developer. 
+I'm passionate about learning and challenges. 
+Looking forward to meeting new friends and growing together here. 
+Thank you!
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+i%E2%80%99m+Xuhengfeng;%E6%88%91%E6%98%AF%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E7%88%B1%E5%A5%BD%E8%80%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=5003&pause=1000&color=F70086&width=435&lines=%F0%9F%8E%89++Hello+everyone%2C+I'm+Xuhengfeng+;%F0%9F%8E%89++%E6%88%91%E6%98%AF%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E7%88%B1%E5%A5%BD%E8%80%85+%E2%9C%A8;+I'm+passionate+about+learning+and+challenges.;%F0%9F%8E%89++%E9%9D%9E%E5%B8%B8%E7%83%AD%E7%88%B1%E5%AD%A6%E4%B9%A0%E5%92%8C%E6%8C%91%E6%88%98+%E2%9C%A8;meeting+new+friends+and+growing+together+here.;%F0%9F%8E%89++%E6%9C%9F%E5%BE%85%E5%9C%A8%E8%BF%99%E9%87%8C%E7%BB%93%E8%AF%86%E6%96%B0%E6%9C%8B%E5%8F%8B%EF%BC%8C%E5%85%B1%E5%90%8C%E6%88%90%E9%95%BF+%E2%9C%A8;%F0%9F%8E%89++Thank+you!++%E8%B0%A2%E8%B0%A2%E5%A4%A7%E5%AE%B6+%E2%9C%A8)](https://git.io/typing-svg)
